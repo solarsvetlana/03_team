@@ -1,7 +1,7 @@
 Members
     -[@solarsvetlana](https://github.com/solarsvetlana)
     -[@Hel-lga](https://github.com/Hel-lga)
-    -[@user2](https://github.com/user2)
+    -[@solarsvetlana](https://github.com/solarsvetlana)
     -[@Pavlo-Naidonov](https://github.com/Pavlo-Naidonov)
     -[@user4](https://github.com/user4)
     -[@Jibek02](https://github.com/Jibek02)
